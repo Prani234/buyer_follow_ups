@@ -1,0 +1,12 @@
+streamlit
+pandas
+groq
+PyMuPDF
+langchain-groq
+langchain-core
+python-dotenv
+apscheduler
+langchain
+beautifulsoup4
+requests
+
